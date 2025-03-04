@@ -1,10 +1,5 @@
-# Lab Assignment 1:
 # Secure Client-Server Connection Using a Distributed Double DES (D-DDES)
-## Team Members(Team Number : 3)
-
-- **Parth Babariya** - (2024202002)
-- **Shubham Devangan** - (2024202005)
-- **Shivendra Pratap Singh** - (2024202022)
+**Shivendra Pratap Singh** - (2024202022)
 
 ## Project folder structure
 
